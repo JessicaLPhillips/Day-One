@@ -1,0 +1,124 @@
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+.go_to_console-container {
+  background: #fabc05;
+  padding: 7px;
+  width: 165px;
+  height: 50px;
+
+}
+
+.go_to_console {
+  border: 1px solid #f6ada1;
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+  background: #1b73e7;
+  color: #fbfcff;
+  padding: 15px 28px;
+  border-radius: 4px;
+  letter-spacing: 0.5px;
+  font-weight: 600;
+}
+
+.get_started {
+  color: #7953b2;
+  border: 1px solid;
+  padding: 16px 30px;
+  margin-left: 11px; 
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: -0.7px;
+
+}
+.Add_webhook {
+  background: #f1f5f7 ;
+  border: 1px solid;
+  border-color: #c6c9cd;
+  border-radius: 3px;
+  margin-left: 9px;
+  padding: 6px 10px;
+  font-size: 12px;
+  font-weight: 600;
+}
+.check_out_the_site-container {
+  height: 75px;
+}
+.check_out_the_site {
+background: #329af7;
+color: white;padding: 12px 40px;
+margin-left: 10px;
+font-size: 16px;
+border-radius: 4px;
+box-shadow: 0px 8px 0px 0px #2680d8;
+border: none;
+
+}
+
+.Explore_the_full_catalog {
+background: #53b882;
+border-radius: 40px;
+padding: 16px 30px;
+color: white;
+font-size: 16px;
+margin-left: 14px;
+font-family: 'Roboto', sans-serif;
+}
+
+.Log_In {
+  margin-left: 8px;
+  padding: 6px 16px;
+  border-radius: 4px;
+  color: #676767;
+  border: 1px solid #b8b8b8;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: "open sans", sans-serif;
+
+}
+.New_Page {
+  background: linear-gradient(to bottom, #5fcd56  0%,#3e8b40 100%);
+  color: white;
+  padding: 7px 10px;
+  margin-left: 4px;
+  border-radius: 4px;
+  font-weight: 800;
+  font-size: 12px;
+  border: 0.5px solid #3e8b40
+}
+
+.Sign_Up {
+      background: #ed4734;
+    color: white;
+    padding: 9px 17px;
+    margin-left: 6px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 800;
+    font-family: "open sans", sans-serif;
+
+    }
+
+.Start_selling_online{
+      border: 2px solid #5c6ac4;
+    color: #6271c7;
+    margin-left: 10px;
+    border-radius: 5px;
+    padding: 11px 28px;
+    font-size: 16px;
+    font-weight: 700;
+}
+   
+.Visit_us {
+   background: linear-gradient(to bottom, #39a3f6 0%,#2c8ff0 100%);
+  color: white;
+  margin-left: 10px;
+  padding: 10px 42px;
+  border-radius: 36px;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+}
